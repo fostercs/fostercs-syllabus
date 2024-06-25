@@ -52,7 +52,8 @@ Particular focus on complex topics like Dynamic Programming and Graphs (e.g., tr
 ## JS
 - [JS101](https://github.com/fostercs/JS101)
 - [ES6 Foundations](https://github.com/fostercs/es6-foundations)
-- CI Linting with Git Hooks
+- Map, Filter, Reduce
+- [Transducers](https://raganwald.com/2017/04/30/transducers.html)
 - Unit Tests
 
 ## GO
@@ -169,7 +170,7 @@ Train Ticket Booking System
 - Scaling secrets
 
 # CI
-- Prod-like lowers
+- Linting with Git Hooks
 
 # Web3
 - [React Server Components](https://www.joshwcomeau.com/react/server-components/)

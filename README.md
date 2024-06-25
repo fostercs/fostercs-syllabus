@@ -26,4 +26,7 @@
 - [Docker101](https://github.com/fostercs/docker101)
 
 # Web3
-- Server Components
+- [React Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+- [RSC Demo](https://vercel.com/new/bfsio-projects/templates/next.js/react-server-components-notes-demo)
+- [Waku.gg](https://github.com/dai-shi/waku)
+- [Institute of Free Technology](https://free.technology)

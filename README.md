@@ -5,6 +5,7 @@
 - Create a repl.it account (free)
 
 [Glossary](glossary.md)
+[UX Terminology](ux.md)
 
 # Programming Concepts (10 pts)
 

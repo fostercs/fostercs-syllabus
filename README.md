@@ -127,31 +127,31 @@ Become a Javascript expert which will enable you to excel in any role.
 - Schema Design
 - Architecture
   - Microservices
-    - Sidecar - The Sidecar pattern is used to augment the functionality of a microservice by running additional processes or services in the same deployment unit (like a container or pod). This allows for modularization of concerns such as logging, monitoring, configuration, and communication.
+    - [Sidecar](https://github.com/fostercs/JS101/blob/main/design-patterns/structural/sidecar-pattern-structural-declarative.md) - The Sidecar pattern is used to augment the functionality of a microservice by running additional processes or services in the same deployment unit (like a container or pod). This allows for modularization of concerns such as logging, monitoring, configuration, and communication.
 - Design Principles (SOLID, Gang of Four)
 - SOLID
 - GoF
 - Orthogonally - A concept where components or systems are designed in such a way that changes in one do not affect others. It emphasizes minimizing dependencies between components to increase modularity and reduce the risk of side effects.
   - Dependency Management
   - Inversion of Control (IoC)
-  - Dependency Injection - Dependency Injection promotes orthogonality by reducing the dependencies between components. By injecting dependencies into a class rather than having the class instantiate them itself, DI decouples the class from its dependencies, making it easier to change one without affecting the other. This promotes a more modular and maintainable system, which aligns with the principles of orthogonality.
+  - [Dependency Injection](https://github.com/fostercs/JS101/blob/main/design-patterns/creational/dependency-injection-creational-imperative-declara) - Dependency Injection promotes orthogonality by reducing the dependencies between components. By injecting dependencies into a class rather than having the class instantiate them itself, DI decouples the class from its dependencies, making it easier to change one without affecting the other. This promotes a more modular and maintainable system, which aligns with the principles of orthogonality.
   - Coupling
   - Cohesion
 ### Design Patterns
 - Creational
-  - Factory Method
+  - [**Factory Method**](https://github.com/fostercs/JS101/blob/main/design-patterns/creational/factory-pattern-creational-imperative.md)
+  - [**Singleton**](https://github.com/fostercs/JS101/blob/main/design-patterns/creational/singleton-pattern-creational-imperative.md)
+  - [**Builder**](https://github.com/fostercs/JS101/blob/main/design-patterns/creational/builder-pattern-creational-imperative.md)
   - Abstract Factory
-  - Singleton
-  - Builder
   - Prototype
 - Structural
-  - Adapter
+  - [**Adapter**](https://github.com/fostercs/JS101/blob/main/design-patterns/structural/adapter-pattern-structural-imperative.md)
+  - [**Facade**](https://github.com/fostercs/JS101/blob/main/design-patterns/structural/facade-pattern-structural-imperative.md)
+  - [**Decorator**](https://github.com/fostercs/JS101/blob/main/design-patterns/structural/decorator-pattern-structural-imperative.md)
+  - Bridge
   - Composite
   - Proxy
   - Flyweight
-  - Facade
-  - Bridge
-  - Decorator
 - Behavioral
   - [**Command**](https://github.com/fostercs/JS101/blob/main/design-patterns/behavioral/command-pattern-behavioral-imperative.md)
   - [**Observer**](https://github.com/fostercs/JS101/blob/main/design-patterns/behavioral/observer-pattern-behavioral-imperative.md)

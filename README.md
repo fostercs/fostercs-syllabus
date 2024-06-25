@@ -16,11 +16,11 @@
 # Programming
 
 ## JS
-- JS101 [JS101](https://github.com/fostercs/JS101)
+- [JS101](https://github.com/fostercs/JS101)
 - [ES6 Foundations](https://github.com/fostercs/es6-foundations)
 
 ## GO
-- GO101 [GO101](https://github.com/fostercs/GO101)
+- [GO101](https://github.com/fostercs/GO101)
 
 # Containers
 - [Docker101](https://github.com/fostercs/docker101)

@@ -4,23 +4,20 @@
 - Create a github.com account (free)
 - Create a repl.it account (free)
 
-# Intro to Algorithms
+# Algorithms
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
 
-# Intro to Design Patterns
+# Design Patterns
 - [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
-# Intro to Data Persistance
+# Data Design
 - [Immutability](https://github.com/fostercs/JS101/tree/main/data)
 
-# Intro to Programming
+# Programming
 
-# Intro to Computer Science
-- [JSCS](https://github.com/fostercs/JS101/tree/main/101)
-
-# JS101
+## JS101
 - Clone [JS101](https://github.com/fostercs/JS101) repo
 
-# GO101
-- Clone GO101 repo
+## GO101
+- Clone [GO101](https://github.com/fostercs/GO101) repo

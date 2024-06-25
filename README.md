@@ -20,8 +20,8 @@
 - [Immutability](https://github.com/fostercs/JS101/tree/main/data)
 
 ## Assessments
-- Largest num
-- Is a palindrome
+- [Largest num in array](https://github.com/fostercs/JS101/blob/main/assessments/largest-number-in-array.js)
+- [Is a palindrome](https://github.com/fostercs/JS101/blob/main/puzzles/is-a-palindrome.md)
 - [Largest branch in binary tree](https://github.com/fostercs/JS101/tree/main/assessments/binary-tree-largest-branch)
 
 ## Concepts

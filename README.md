@@ -22,7 +22,7 @@
 ## Assessments
 - Largest num
 - Is a palindrome
-- Binary tree
+- [Largest branch in binary tree](https://github.com/fostercs/JS101/tree/main/assessments/binary-tree-largest-branch)
 
 ## Concepts
 - Math Operations

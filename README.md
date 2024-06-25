@@ -4,15 +4,14 @@
 - Create a github.com account (free)
 - Create a repl.it account (free)
 
-# Algorithms
+# Data Structures & Algorithms
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [Data Structures & Algorithms](https://github.com/fostercs/dsa-cs-js)
 - [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
-
-# Design Patterns
-- [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
-
-# Data Design
 - [Immutability](https://github.com/fostercs/JS101/tree/main/data)
+
+# Software Design Patterns
+- [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
 # Programming
 

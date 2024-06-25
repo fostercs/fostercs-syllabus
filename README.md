@@ -47,6 +47,18 @@
 Weekly contests to gauge conceptual understanding and problem-solving abilities
 Particular focus on complex topics like Dynamic Programming and Graphs (e.g., traversals, shortest paths, etc.)
 
+# Programming Languages
+
+## JS
+- [JS101](https://github.com/fostercs/JS101)
+- [ES6 Foundations](https://github.com/fostercs/es6-foundations)
+- CI Linting with Git Hooks
+- Unit Tests
+
+## GO
+- [GO101](https://github.com/fostercs/GO101)
+- Go Test
+
 # Specalization (5 pts)
 
 ## Backend
@@ -148,18 +160,6 @@ Train Ticket Booking System
 ### Complex systems
 - Cassandra DB
 - Distributed File Systems
-
-# Programming Languages
-
-## JS
-- [JS101](https://github.com/fostercs/JS101)
-- [ES6 Foundations](https://github.com/fostercs/es6-foundations)
-- CI Linting with Git Hooks
-- Unit Tests
-
-## GO
-- [GO101](https://github.com/fostercs/GO101)
-- Go Test
 
 # Containers
 - [Docker101](https://github.com/fostercs/docker101)

@@ -4,6 +4,8 @@
 - Create a github.com account (free)
 - Create a repl.it account (free)
 
+[Glossary](glossary.md)
+
 # Programming Concepts (10 pts)
 
 - Problem Solving

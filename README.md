@@ -166,10 +166,10 @@ Become a Javascript expert which will enable you to excel in any role.
   - Visitor
 
 ### Real-World Design (Low-Level)
-Movie Ticket Booking System
-Expense Sharing Application
-Distributed Cache
-Parking Lot
+- Movie Ticket Booking System
+- Expense Sharing Application
+- Distributed Cache
+- Parking Lot
 
 ## Assesment & Objective
 - Real-world case studies and examples on large scale open source repositories

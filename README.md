@@ -10,10 +10,10 @@
 - [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
 - [Immutability](https://github.com/fostercs/JS101/tree/main/data)
 
-# Software Design Patterns
+# Design Patterns
 - [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
-# Programming
+# Programming Languages
 
 ## JS
 - [JS101](https://github.com/fostercs/JS101)
@@ -24,3 +24,5 @@
 
 # Containers
 - [Docker101](https://github.com/fostercs/docker101)
+
+# Web3

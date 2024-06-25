@@ -15,8 +15,12 @@
 
 # Programming
 
-## JS101
-- Clone [JS101](https://github.com/fostercs/JS101) repo
+## JS
+- JS101 [JS101](https://github.com/fostercs/JS101)
+- [ES6 Foundations](https://github.com/fostercs/es6-foundations)
 
-## GO101
-- Clone [GO101](https://github.com/fostercs/GO101) repo
+## GO
+- GO101 [GO101](https://github.com/fostercs/GO101)
+
+# Containers
+- [Docker101](https://github.com/fostercs/docker101)

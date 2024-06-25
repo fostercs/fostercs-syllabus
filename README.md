@@ -7,6 +7,7 @@
 # Reference
 - [Glossary](glossary.md)
 - [UX Terminology](ux.md)
+https://freedium.cfd/https://zhiminzhan.medium.com/be-aware-of-processes-introduced-by-fake-agile-consultants-ccca1dfdce12
 
 # Programming Concepts (10 pts)
 - Problem Solving

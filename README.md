@@ -154,12 +154,22 @@ Train Ticket Booking System
 ## JS
 - [JS101](https://github.com/fostercs/JS101)
 - [ES6 Foundations](https://github.com/fostercs/es6-foundations)
+- CI Linting with Git Hooks
+- Unit Tests
 
 ## GO
 - [GO101](https://github.com/fostercs/GO101)
+- Go Test
 
 # Containers
 - [Docker101](https://github.com/fostercs/docker101)
+
+# Integration Tests
+- Swagger
+- Scaling secrets
+
+# CI
+- Prod-like lowers
 
 # Web3
 - [React Server Components](https://www.joshwcomeau.com/react/server-components/)

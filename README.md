@@ -1,4 +1,4 @@
-# fostercs-syllabus
+# Syllabus
 
 - Create a gmail email address (free)
 - Create a github.com account (free)

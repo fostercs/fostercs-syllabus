@@ -9,11 +9,8 @@
 # Programming Concepts (10 pts)
 
 - Problem Solving
-- Bit-Manipulation (Bitwise)
-- Time Complexity
-- Array Techniques (prefix sum and carry forward)
-- Maths, Sorting and Hashing
-- Recursion
+- Working with Arrays
+- Working with Objects
 
 # Data Structures & Algorithms (20 pts)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
@@ -27,16 +24,15 @@
 - Binary tree
 
 ## Concepts
-- Math
-- Time Complexity
+- Math Operations
 - Arrays
 - Strings
 - Binary Search
+- Bit-Manipulation (Bitwise)
 - Pointers
 - Recursion
 - Hashing
 - Sorting
-- Bit Manipulation
 - Stacks
 - Queues
 - Linked Lists
@@ -48,6 +44,9 @@
 - Dynamic Programming
 - Graphs
 - Databases
+- Objects
+
+## 
 - Operating Systems
 - Computer Networks
 

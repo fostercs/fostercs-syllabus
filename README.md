@@ -37,7 +37,7 @@
 - Databases
 - Objects
 
-- # Data Structures & Algorithms (20 pts)
+# Data Structures & Algorithms (20 pts)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Data Structures & Algorithms](https://github.com/fostercs/dsa-cs-js)
 - [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)

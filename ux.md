@@ -1,3 +1,5 @@
+# UX Terminology
+
 1. User Research
 2. Usability Testing
 3. User Personas

@@ -119,8 +119,45 @@ Become a Javascript expert which will enable you to excel in any role.
 - [OOP](https://github.com/mhackersu/ninety-nine-bottles-js)
 - UML
 - Schema Design
-- Design Principles (SOLID)
-- Design Patterns (Creational, Structural, Factory, Factory, Singleton)
+- Architecture
+  - Microservices
+    - Sidecar - The Sidecar pattern is used to augment the functionality of a microservice by running additional processes or services in the same deployment unit (like a container or pod). This allows for modularization of concerns such as logging, monitoring, configuration, and communication.
+- Design Principles (SOLID, Gang of Four)
+- SOLID
+- GoF
+- Orthogonally - A concept where components or systems are designed in such a way that changes in one do not affect others. It emphasizes minimizing dependencies between components to increase modularity and reduce the risk of side effects.
+  - Dependency Management
+  - Inversion of Control (IoC)
+  - Dependency Injection - Dependency Injection promotes orthogonality by reducing the dependencies between components. By injecting dependencies into a class rather than having the class instantiate them itself, DI decouples the class from its dependencies, making it easier to change one without affecting the other. This promotes a more modular and maintainable system, which aligns with the principles of orthogonality.
+  - Coupling
+  - Cohesion
+### Design Patterns
+- Creational
+  - Factory Method
+   - Abstract Factory
+   - Singleton
+   - Builder
+   - Prototype
+- Structural
+  - Adapter
+   - Composite
+   - Proxy
+   - Flyweight
+   - Facade
+   - Bridge
+   - Decorator
+- Behavioral
+  - Chain of Responsibility
+   - Command
+   - Interpreter
+   - Iterator
+   - Mediator
+   - Memento
+   - Observer
+   - State
+   - Strategy
+   - Template Method
+   - Visitor
 - [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
 ### Real-World Design (Low-Level)

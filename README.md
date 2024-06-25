@@ -162,11 +162,7 @@ Train Ticket Booking System
 - [Docker101](https://github.com/fostercs/docker101)
 
 # Web3
-- [React Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+- [React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [RSC Demo](https://vercel.com/new/bfsio-projects/templates/next.js/react-server-components-notes-demo)
-- [Waku.gg](https://github.com/dai-shi/waku)
 - [Institute of Free Technology](https://free.technology)
-- [Keycard](https://keycard.tech)
-- [Status](https://status.app)
-- [Gemini](https://www.gemini.com)
 - [Smart Conracts in Solidity](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)

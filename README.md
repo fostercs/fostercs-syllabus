@@ -161,11 +161,9 @@ Become a Javascript expert which will enable you to excel in any role.
   - Iterator
   - Mediator
   - Memento
-  
   - State
   - Template Method
   - Visitor
-- [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
 ### Real-World Design (Low-Level)
 Movie Ticket Booking System

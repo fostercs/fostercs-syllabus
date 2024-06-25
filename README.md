@@ -4,11 +4,11 @@
 - Create a github.com account (free)
 - Create a repl.it account (free)
 
+# Reference
 - [Glossary](glossary.md)
 - [UX Terminology](ux.md)
 
 # Programming Concepts (10 pts)
-
 - Problem Solving
 - Working with Arrays
 - Working with Objects

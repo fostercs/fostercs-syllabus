@@ -192,13 +192,13 @@ Parking Lot
 - Monoliths & Microservices
 
 ### Real-World Design (High-Level)
-Search Typehead
-Search Engine (Google)
-Social Chat (Messenger)
-Social KB (Quora)
-Distribuited Crawler
-Video Streaming Platform
-Train Ticket Booking System
+- Search Typehead
+- Search Engine (Google)
+- Social Chat (Messenger)
+- Social KB (Quora)
+- Distribuited Crawler
+- Video Streaming Platform
+- Train Ticket Booking System
 
 ### Complex systems
 - Cassandra DB

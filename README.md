@@ -101,16 +101,14 @@ Become a Javascript expert which will enable you to excel in any role.
 
 # Design (10 pts)
 
-## Design Patterns
-- [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
-
 ## Low Level Design
 
-- OOP
+- [OOP](https://github.com/mhackersu/ninety-nine-bottles-js)
 - UML
 - Schema Design
 - Design Principles (SOLID)
 - Design Patterns (Creational, Structural, Factory, Factory, Singleton)
+- [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
 ### Real-World Design (Low-Level)
 Movie Ticket Booking System

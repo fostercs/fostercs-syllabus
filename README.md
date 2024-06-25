@@ -14,17 +14,6 @@
 - [Working with Arrays](https://github.com/fostercs/JS101/blob/main/data/array-ops.js)
 - Working with Objects
 
-# Data Structures & Algorithms (20 pts)
-- [Algorithm Visualizer](https://algorithm-visualizer.org/)
-- [Data Structures & Algorithms](https://github.com/fostercs/dsa-cs-js)
-- [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
-- [Immutability](https://github.com/fostercs/JS101/tree/main/data)
-
-## Assessments
-- [Largest num in array](https://github.com/fostercs/JS101/blob/main/assessments/largest-number-in-array.js)
-- [Is a palindrome](https://github.com/fostercs/JS101/blob/main/puzzles/is-a-palindrome.md)
-- [Largest branch in binary tree](https://github.com/fostercs/JS101/tree/main/assessments/binary-tree-largest-branch)
-
 ## Concepts
 - Math Operations
 - Arrays
@@ -48,9 +37,33 @@
 - Databases
 - Objects
 
-## 
-- Operating Systems
-- Computer Networks
+- # Data Structures & Algorithms (20 pts)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [Data Structures & Algorithms](https://github.com/fostercs/dsa-cs-js)
+- [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
+- [Immutability](https://github.com/fostercs/JS101/tree/main/data)
+
+## Assessments
+- [Largest num in array](https://github.com/fostercs/JS101/blob/main/assessments/largest-number-in-array.js)
+- [Is a palindrome](https://github.com/fostercs/JS101/blob/main/puzzles/is-a-palindrome.md)
+- [Largest branch in binary tree](https://github.com/fostercs/JS101/tree/main/assessments/binary-tree-largest-branch)
+
+## OSI
+- Physical Layer
+  - OS
+  - Disk
+  - Memory
+  - CPU
+- Data Link Layer
+  - DB
+- Network Layer (Layer 3)
+  - IP Address
+- Transport (Layer 4)
+  - TCP/IP
+- Session
+- Presentation
+- Application (Layer 7)
+  - HTTP
 
 ### Assessment
 Weekly contests to gauge conceptual understanding and problem-solving abilities

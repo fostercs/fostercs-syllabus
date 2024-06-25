@@ -10,6 +10,7 @@
 
 # Programming Concepts (10 pts)
 - Problem Solving
+- Daily Warmups
 - [Working with Arrays](https://github.com/fostercs/JS101/blob/main/data/array-ops.js)
 - Working with Objects
 

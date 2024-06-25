@@ -19,6 +19,12 @@
 - [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
 - [Immutability](https://github.com/fostercs/JS101/tree/main/data)
 
+## Assessments
+- Largest num
+- Is a palindrome
+- Binary tree
+
+## Concepts
 - Math
 - Time Complexity
 - Arrays
@@ -134,30 +140,31 @@ Become a Javascript expert which will enable you to excel in any role.
 ### Design Patterns
 - Creational
   - Factory Method
-   - Abstract Factory
-   - Singleton
-   - Builder
-   - Prototype
+  - Abstract Factory
+  - Singleton
+  - Builder
+  - Prototype
 - Structural
   - Adapter
-   - Composite
-   - Proxy
-   - Flyweight
-   - Facade
-   - Bridge
-   - Decorator
+  - Composite
+  - Proxy
+  - Flyweight
+  - Facade
+  - Bridge
+  - Decorator
 - Behavioral
+  - [**Command**](https://github.com/fostercs/JS101/blob/main/design-patterns/behavioral/command-pattern-behavioral-imperative.md)
+  - [**Observer**](https://github.com/fostercs/JS101/blob/main/design-patterns/behavioral/observer-pattern-behavioral-imperative.md)
+  - [**Strategy**](https://github.com/fostercs/JS101/blob/main/design-patterns/behavioral/strategy-pattern-behavioral-imperative.md)
+  - Interpreter
   - Chain of Responsibility
-   - Command
-   - Interpreter
-   - Iterator
-   - Mediator
-   - Memento
-   - Observer
-   - State
-   - Strategy
-   - Template Method
-   - Visitor
+  - Iterator
+  - Mediator
+  - Memento
+  
+  - State
+  - Template Method
+  - Visitor
 - [Top 3 Patterns](https://github.com/fostercs/JS101/tree/main/design-patterns)
 
 ### Real-World Design (Low-Level)

@@ -7,7 +7,6 @@
 # Reference
 - [Glossary](glossary.md)
 - [UX Terminology](ux.md)
-- [Fake Agile](https://freedium.cfd/https://zhiminzhan.medium.com/be-aware-of-processes-introduced-by-fake-agile-consultants-ccca1dfdce12)
 - [Gitlab Handbook](https://handbook.gitlab.com/handbook)
 
 # Programming Concepts (10 pts)

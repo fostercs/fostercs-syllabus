@@ -7,6 +7,15 @@
 - stackblitz.com
 - glitch.com
 
+### Chromebook Development
+- google chrome developer tools
+
+### Localhost Development
+- Python
+```
+docker run -it python:3.8
+```
+
 # Reference
 - [Glossary](glossary.md)
 - [UX Terminology](ux.md)

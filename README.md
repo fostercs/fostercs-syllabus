@@ -16,18 +16,13 @@
 docker run -it python:3.8
 ```
 
-# Reference
-- [Glossary](glossary.md)
-- [UX Terminology](ux.md)
-- [Gitlab Handbook](https://handbook.gitlab.com/handbook)
-
 # Programming Concepts (10 pts)
 - Problem Solving
 - [Daily Warmups](https://github.com/fostercs/JS101/blob/main/101%2Fwarmup.js)
 - [Working with Arrays](https://github.com/fostercs/JS101/blob/main/data/array-ops.js)
 - Working with Objects
 
-## Concepts
+## Mastering Concepts
 - Math Operations
 - Arrays
 - Strings
@@ -79,8 +74,8 @@ docker run -it python:3.8
   - HTTP
 
 ### Assessment
-Weekly contests to gauge conceptual understanding and problem-solving abilities
-Particular focus on complex topics like Dynamic Programming and Graphs (e.g., traversals, shortest paths, etc.)
+- Weekly contests to gauge conceptual understanding and problem-solving abilities
+- Particular focus on complex topics like Dynamic Programming and Graphs (e.g., traversals, shortest paths, etc.)
 
 # Programming Languages
 
@@ -121,6 +116,7 @@ Become a Javascript expert which will enable you to excel in any role.
 - Building efficient Data Processing Systems
 - Advanced SQL
 - Cloud Services
+- Cloud Agnostic
 - AWS, GCP, and Azure pros/cons
 - Developing ETL pipelines
 - Map-Filter-Reduce
@@ -139,10 +135,10 @@ Become a Javascript expert which will enable you to excel in any role.
 - Logging
 - Monitoring
 
-- We focus on building foundational skills that will enable you to solve all
- the major problems pertaining to data storage and management
- Understand the complexities of developing end-to-end pipelines with
- hands-on experience
+- Focus on building foundational skills that will enable you to solve all
+ the major problems pertaining to data storage and management.
+ - Understand the complexities of developing end-to-end pipelines with
+ hands-on experience.
 
 ### Assessment
 - Capstone Project (Backend, Full-stack, Data engineering)
@@ -248,3 +244,8 @@ Become a Javascript expert which will enable you to excel in any role.
 - [RSC Demo](https://vercel.com/new/bfsio-projects/templates/next.js/react-server-components-notes-demo)
 - [Institute of Free Technology](https://free.technology)
 - [Smart Conracts in Solidity](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html)
+
+# Reference
+- [Glossary](glossary.md)
+- [UX Terminology](ux.md)
+- [Gitlab Handbook](https://handbook.gitlab.com/handbook)

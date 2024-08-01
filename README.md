@@ -1,8 +1,11 @@
 # Syllabus
 
-- Create a gmail email address (free)
-- Create a github.com account (free)
-- Create a repl.it account (free)
+### Create the following free accounts
+- gmail.com
+- github.com
+- repl.it
+- stackblitz.com
+- glitch.com
 
 # Reference
 - [Glossary](glossary.md)

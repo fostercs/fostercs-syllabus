@@ -1,28 +1,40 @@
-# Syllabus
+# Welcome to WEB3 101
 
-### Create the following free accounts
+## Syllabus
+CS Fundamentals in Python
+
+## Getting Started
+
+Steps for your particular use case:
+
+### macOS
+- Install Docker
+
+### Chromebook
+- google chrome developer tools
+
+#### Create the following free accounts
 - gmail.com
 - github.com
 - repl.it
 - stackblitz.com
 - glitch.com
 
-### Chromebook Development
-- google chrome developer tools
+### Windows
+- Install Docker
 
-### Localhost Development
-- Python
+## Programming Concepts (10 pts)
+- Run Python in a Docker Container locally
 ```
 docker run -it python:3.8
 ```
 
-# Programming Concepts (10 pts)
-- Problem Solving
+## Problem Solving
 - [Daily Warmups](https://github.com/fostercs/JS101/blob/main/101%2Fwarmup.js)
 - [Working with Arrays](https://github.com/fostercs/JS101/blob/main/data/array-ops.js)
 - Working with Objects
 
-## Mastering Concepts
+## Introduction to Concepts
 - Math Operations
 - Arrays
 - Strings
@@ -45,7 +57,7 @@ docker run -it python:3.8
 - Databases
 - Objects
 
-# Data Structures & Algorithms (20 pts)
+# Introduction to Data Structures & Algorithms (20 pts)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Data Structures & Algorithms](https://github.com/fostercs/dsa-cs-js)
 - [JS Algorithms](https://github.com/fostercs/JS101/tree/main/algorithms)
